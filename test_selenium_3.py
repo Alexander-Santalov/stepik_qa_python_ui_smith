@@ -4,8 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
-print('Приветсвую тебя в нашем интернет магазине')
-print('Выбери один из слудующих товаров и укажи его номер:\n'
+print('Приветствую тебя в нашем интернет магазине')
+print('Выбери один из следующих товаров и укажи его номер:\n'
       '1 - Sauce Labs Backpack\n'
       '2 - Sauce Labs Bike Light\n'
       '3 - Sauce Labs Bolt T-Shirt\n'
